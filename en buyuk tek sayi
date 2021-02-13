@@ -1,0 +1,9 @@
+
+sayılar = [11, 25, 73, 156, 5 ,63 , 89, 98]
+max_value = max(sayılar)
+max_index = sayılar. index(max_value)
+
+  if  max_value % 2 =! 0
+
+print(max_index)
+
